@@ -1,14 +1,14 @@
 package main
 
 import (
-	"net/http"
 	"html/template"
+	"net/http"
 )
 
 var tpl *template.Template
 
-func init(){
-	tpl = template.Must(template.ParseGlob("layouts/*html"))
+func init() {
+	tpl = template.Must(template.ParseGlob("index.html"))
 }
 
 func main() {
@@ -18,5 +18,4 @@ func main() {
 
 func index(w http.ResponseWriter, r *http.Request) {
 	tpl.ExecuteTemplate(w, "index.html", nil)
-	}
-
+}

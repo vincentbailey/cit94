@@ -1,13 +1,13 @@
 package main
 
 import (
-	"net/http"
 	"html/template"
+	"net/http"
 )
 
 var tpl *template.Template
 
-func init(){
+func init() {
 	tpl = template.Must(template.ParseGlob("layouts/*.html"))
 }
 
@@ -16,6 +16,6 @@ func main() {
 	http.HandleFunc("/", index)
 }
 
-func index(w http.ResponseWriter, r *http.Request){
+func index(w http.ResponseWriter, r *http.Request) {
 	tpl.ExecuteTemplate(w, "index.html", nil)
 }

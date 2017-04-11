@@ -19,4 +19,3 @@ func main() {
 func (p person) foo() {
 	fmt.Println(p.last, p.walk)
 }
-

@@ -6,7 +6,7 @@ import (
 
 type person struct {
 	fname string
-	lname   string
+	lname string
 }
 
 func main() {
