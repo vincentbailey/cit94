@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a7f81b-c047-4ecb-9b78-18cafc1d7289" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week9/problem 4/main.go" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 5 Web Page/day 2/layouts/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 5 Web Page/main.go" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 5 Web Page/template/about.gohtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 5 Web Page/template/contact.gohtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 5 Web Page/template/index.gohtml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3 Programming Exercises/01_slice.go" afterPath="$PROJECT_DIR$/Week 3 Programming Exercises/01_slice.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3 Programming Exercises/02_map.go" afterPath="$PROJECT_DIR$/Week 3 Programming Exercises/02_map.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3 Programming Exercises/03_struct.go" afterPath="$PROJECT_DIR$/Week 3 Programming Exercises/03_struct.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3 Programming Exercises/04_struct.go" afterPath="$PROJECT_DIR$/Week 3 Programming Exercises/04_struct.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3 Programming Exercises/05_struct.go" afterPath="$PROJECT_DIR$/Week 3 Programming Exercises/05_struct.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3 Programming Exercises/06_methods&amp;receivers.go" afterPath="$PROJECT_DIR$/Week 3 Programming Exercises/06_methods&amp;receivers.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 5 Web Page/day 2/prime.go" afterPath="$PROJECT_DIR$/Week 5 Web Page/day 2/prime.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 5 Web Page/day 3/main.go" afterPath="$PROJECT_DIR$/Week 5 Web Page/day 3/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week 10/01/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week 10/02/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week 10/02/templates/index.gohtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week 10/03/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week 10/03/templates/index.gohtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,20 +24,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week9/problem 4/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="1" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-              <folding>
-                <element signature="e#14#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,10 +40,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practice_01.go" />
-        <option value="$PROJECT_DIR$/practice_02.go" />
-        <option value="$PROJECT_DIR$/Week 5 Web Page/index.gohtml" />
-        <option value="$PROJECT_DIR$/Week 5 Web Page/about.gohtml" />
         <option value="$PROJECT_DIR$/Week 5 Web Page/contact.gohtml" />
         <option value="$PROJECT_DIR$/Week 5 Web Page/template/index.gohtml" />
         <option value="$PROJECT_DIR$/practice/template/contact.gohtml" />
@@ -113,6 +87,10 @@
         <option value="$PROJECT_DIR$/week7/hw1.go" />
         <option value="$PROJECT_DIR$/week7/gg.go" />
         <option value="$PROJECT_DIR$/week9/problem 4/main.go" />
+        <option value="$PROJECT_DIR$/week 10/01/main.go" />
+        <option value="$PROJECT_DIR$/week 10/02/main.go" />
+        <option value="$PROJECT_DIR$/week 10/02/templates/index.gohtml" />
+        <option value="$PROJECT_DIR$/week 10/03/main.go" />
       </list>
     </option>
   </component>
@@ -181,7 +159,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="week9" />
+              <option name="myItemId" value="week 10" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -213,6 +191,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\src\github.com\vincentbailey\cit94\week 10\03" />
       <recent name="C:\work\src\github.com\vincentbailey\cit94\week7" />
       <recent name="C:\work\src\github.com\vincentbailey\cit94\week 6\templates" />
     </key>
@@ -425,12 +404,12 @@
       <workItem from="1487557926128" duration="1292000" />
       <workItem from="1488389428654" duration="6226000" />
       <workItem from="1488405118972" duration="9000" />
-      <workItem from="1491936028744" duration="86000" />
+      <workItem from="1491936028744" duration="833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62002000" />
+    <option name="totallyTimeSpent" value="62749000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -443,9 +422,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="970" height="1049" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22103004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22103004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32107022" sideWeight="0.5021075" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258427" sideWeight="0.49789253" order="2" side_tool="false" content_ui="tabs" />
@@ -474,11 +452,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week 5 Web Page/templates/index.gohtml" />
-    <entry file="file://$PROJECT_DIR$/Week 5 Web Page/page2.html" />
-    <entry file="file://$PROJECT_DIR$/Week 5 Web Page/main.go" />
-    <entry file="file://$PROJECT_DIR$/../cit82/vincentbailey.github.io/page2.html" />
-    <entry file="file://$PROJECT_DIR$/../cit82/vincentbailey.github.io/index.html" />
     <entry file="file://$PROJECT_DIR$/Week 5 Web Page/day 2/layouts/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -770,6 +743,50 @@
           <folding>
             <element signature="e#14#43#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 10/01/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 10/02/templates/index.gohtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 10/02/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2924">
+          <caret line="169" column="1" lean-forward="false" selection-start-line="169" selection-start-column="1" selection-end-line="169" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 10/03/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="85" column="1" lean-forward="false" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 10/03/templates/index.gohtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
